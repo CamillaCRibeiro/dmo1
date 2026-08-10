@@ -3,7 +3,7 @@
 ## Descrição
 Este repositório tem o intuito de armazenar as atividades feitas na disciplina de **Dispositivos Móveis 1** do tecnólogo em Análise e Desenvolvimento de Sistemas do IFSP Araraquara.
 ## Tecnologias Utilizadas
-- Kotlin + Android Studio
+- Kotlin + IntelliJ IDEA
 ## Status
 ✔️ Em desenvolvimento
 ## Sobre Mim
